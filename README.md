@@ -47,5 +47,8 @@ Com este modelo implementado, a Dona Magali consegue agora:
 
 ---
 
-## 👩‍💻 Autora
-**Jéssica**
+## 👤 Autora
+
+**Jéssica Ribeiro
+📫 **Contato:**
+* [(https://www.linkedin.com/in/jessica-ribeiro-105814116?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
